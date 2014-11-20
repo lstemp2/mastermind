@@ -1,0 +1,7 @@
+# This file only exists to keep "bin" empty.
+# Please do not commit compiled code.
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
